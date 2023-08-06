@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sri/static/css/main.ccbdd4e4.css",
+    "main.css": "/sri/static/css/main.8fc11e4e.css",
     "main.js": "/sri/static/js/main.bf49e363.js",
     "static/media/fondo.jpg": "/sri/static/media/fondo.be622bdcbe550d949cf6.jpg",
     "index.html": "/sri/index.html",
-    "main.ccbdd4e4.css.map": "/sri/static/css/main.ccbdd4e4.css.map",
+    "main.8fc11e4e.css.map": "/sri/static/css/main.8fc11e4e.css.map",
     "main.bf49e363.js.map": "/sri/static/js/main.bf49e363.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccbdd4e4.css",
+    "static/css/main.8fc11e4e.css",
     "static/js/main.bf49e363.js"
   ]
 }
